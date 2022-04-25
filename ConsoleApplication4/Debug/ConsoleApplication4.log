@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Work\uni\visual poject\3\ConsoleApplication4\ConsoleApplication4\Source.cpp(87): warning C4715: 'serchid': not all control paths return a value
+D:\Work\uni\visual poject\3\ConsoleApplication4\ConsoleApplication4\Source.cpp(158): warning C4715: 'serchcid': not all control paths return a value
+  ConsoleApplication4.vcxproj -> D:\Work\uni\visual poject\3\ConsoleApplication4\Debug\ConsoleApplication4.exe
